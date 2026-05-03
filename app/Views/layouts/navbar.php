@@ -335,11 +335,11 @@ if ($user && !empty($user['full_name'])) {
 
     .app-navbar-inner {
         width: 100%;
-        min-height: 74px;
+        min-height: 62px;
         display: flex;
         align-items: center;
         gap: 18px;
-        padding: 12px 34px;
+        padding: 6px 34px;
         box-sizing: border-box;
     }
 
